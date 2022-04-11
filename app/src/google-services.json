@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "760665884742",
+    "project_id": "let-s-talk-780c9",
+    "storage_bucket": "let-s-talk-780c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760665884742:android:6650086373dda90ce0a247",
+        "android_client_info": {
+          "package_name": "com.cake.letschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760665884742-r2qfud7sm3csorouqd2miastb1k70d7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cake.letschat",
+            "certificate_hash": "4470b1eb7448cca662052d8df84791f4b1244b95"
+          }
+        },
+        {
+          "client_id": "760665884742-7g7rkmv037et5rg69d9efk61qmtsalvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYlIToDaj0WsQLBYuFMkUaXCT2Li0zxhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760665884742-7g7rkmv037et5rg69d9efk61qmtsalvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
