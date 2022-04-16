@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.LetsChat">
-        <activity android:name=".dashboard"></activity>
+        <activity
+            android:name=".message"
+            android:exported="false" />
+        <activity android:name=".dashboard" />
         <activity android:name=".photoName" />
         <activity android:name=".otp" />
         <activity android:name=".phoneVerification" />

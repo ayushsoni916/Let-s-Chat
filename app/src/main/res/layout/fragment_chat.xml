@@ -4,4 +4,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#000000"
-    tools:context=".Fragment.chatFrag" />
+    tools:context=".Fragment.chatFrag" >
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/chatRcv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</FrameLayout>

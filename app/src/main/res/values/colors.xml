@@ -8,4 +8,5 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="statusBlue">#19222C</color>
+    <color name="sheetColor">#323232</color>
 </resources>
