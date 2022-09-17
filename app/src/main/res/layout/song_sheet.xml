@@ -35,4 +35,10 @@
         android:inputType="textPersonName"
         android:paddingStart="15dp" />
 
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/songRcv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp" />
+
 </LinearLayout>

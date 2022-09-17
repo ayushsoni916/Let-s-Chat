@@ -3,10 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/android/LetsChat/app/src/main/res/drawable/bottom_toolbar.xml" value="0.2555" />
+        <entry key="..\:/android/LetsChat/app/src/main/res/drawable/circular_progress_bar.xml" value="0.1" />
+        <entry key="..\:/android/LetsChat/app/src/main/res/drawable/circular_shape.xml" value="0.2555" />
         <entry key="..\:/android/LetsChat/app/src/main/res/drawable/gradient_color.xml" value="0.237" />
         <entry key="..\:/android/LetsChat/app/src/main/res/drawable/ic_baseline_camera_24.xml" value="0.237" />
         <entry key="..\:/android/LetsChat/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.2555" />
+        <entry key="..\:/android/LetsChat/app/src/main/res/drawable/ic_baseline_pause_24.xml" value="0.2555" />
+        <entry key="..\:/android/LetsChat/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.2555" />
+        <entry key="..\:/android/LetsChat/app/src/main/res/drawable/ic_baseline_play_circle_outline_24.xml" value="0.2475" />
         <entry key="..\:/android/LetsChat/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.237" />
+        <entry key="..\:/android/LetsChat/app/src/main/res/drawable/ic_white_search24.xml" value="0.2555" />
+        <entry key="..\:/android/LetsChat/app/src/main/res/drawable/message_text_background.xml" value="0.2475" />
         <entry key="..\:/android/LetsChat/app/src/main/res/drawable/search_back.xml" value="0.237" />
         <entry key="..\:/android/LetsChat/app/src/main/res/drawable/send_message_back.xml" value="0.237" />
         <entry key="..\:/android/LetsChat/app/src/main/res/drawable/song_bar.xml" value="0.129" />
@@ -14,10 +22,12 @@
         <entry key="..\:/android/LetsChat/app/src/main/res/drawable/songs_bottom_sheet_background.xml" value="0.1245" />
         <entry key="..\:/android/LetsChat/app/src/main/res/drawable/stroy_gradient.xml" value="0.2555" />
         <entry key="..\:/android/LetsChat/app/src/main/res/drawable/toolbar.xml" value="0.1025" />
-        <entry key="..\:/android/LetsChat/app/src/main/res/layout/activity_dashboard.xml" value="0.2037037037037037" />
+        <entry key="..\:/android/LetsChat/app/src/main/res/layout/activity_dashboard.xml" value="0.176" />
         <entry key="..\:/android/LetsChat/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/android/LetsChat/app/src/main/res/layout/activity_message.xml" value="0.2" />
+        <entry key="..\:/android/LetsChat/app/src/main/res/layout/activity_message.xml" value="0.264" />
+        <entry key="..\:/android/LetsChat/app/src/main/res/layout/activity_phone_verification.xml" value="0.2" />
         <entry key="..\:/android/LetsChat/app/src/main/res/layout/bottom_sheet_songs.xml" value="0.264" />
+        <entry key="..\:/android/LetsChat/app/src/main/res/layout/chat_rcv_design.xml" value="0.4" />
         <entry key="..\:/android/LetsChat/app/src/main/res/layout/chat_view.xml" value="0.536" />
         <entry key="..\:/android/LetsChat/app/src/main/res/layout/fragment_camera.xml" value="0.25" />
         <entry key="..\:/android/LetsChat/app/src/main/res/layout/fragment_chat.xml" value="0.25" />
@@ -25,7 +35,8 @@
         <entry key="..\:/android/LetsChat/app/src/main/res/layout/fragment_song_bottom_sheet.xml" value="0.2" />
         <entry key="..\:/android/LetsChat/app/src/main/res/layout/fragment_story.xml" value="0.25" />
         <entry key="..\:/android/LetsChat/app/src/main/res/layout/main_frag_layout.xml" value="0.264" />
-        <entry key="..\:/android/LetsChat/app/src/main/res/layout/song_sheet.xml" value="0.4" />
+        <entry key="..\:/android/LetsChat/app/src/main/res/layout/song_sheet.xml" value="0.2" />
+        <entry key="..\:/android/LetsChat/app/src/main/res/layout/songs_rcv_layout.xml" value="0.4" />
         <entry key="..\:/android/LetsChat/app/src/main/res/layout/story_gradient.xml" value="0.25" />
         <entry key="..\:/android/LetsChat/app/src/main/res/layout/stroies.xml" value="0.4" />
       </map>
